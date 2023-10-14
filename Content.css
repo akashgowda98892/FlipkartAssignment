@@ -1,0 +1,329 @@
+.content {
+  position: absolute;
+  top: 64px;
+  left: 72px;
+  width: 1294px;
+  height: 1638px;
+  background-color: white;
+  border: 1px solid black;
+}
+
+.services-offered {
+  position: absolute;
+  top: 86px;
+  left: 116px;
+  width: 107px;
+  height: 18px;
+  background: transparent url('img/Services Offered.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.org-setup-text {
+  position: absolute;
+  top: 116px;
+  left: 116px;
+  width: 67px;
+  height: 18px;
+  background: transparent url('img/Org Setup.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.org-setup {
+  position: absolute;
+  top: 77px;
+  left: 280px;
+  width: 95px;
+  height: 25px;
+  text-align: left;
+  font: 20px/25px Google Sans;
+  letter-spacing: 0px;
+  color: #3C4043;
+  opacity: 1;
+}
+
+.details-text {
+  position: absolute;
+  top: 138px;
+  left: 280px;
+  width: 64px;
+  height: 25px;
+  text-align: left;
+  font: 20px/25px Google Sans;
+  letter-spacing: 0px;
+  color: #3C4043;
+  opacity: 1;
+}
+
+.page-configure-text {
+  position: absolute;
+  top: 168px;
+  left: 280px;
+  width: 222px;
+  height: 16px;
+  text-align: left;
+  font: 12px/18px Google Sans;
+  letter-spacing: 0px;
+  color: #5F6368;
+  opacity: 1;
+}
+
+
+.upload-image {
+  position: absolute;
+  top: 150px;
+  left: 1030px;
+  width: 24px;
+  height: 24px;
+  background: transparent url('img/upload_black_24dp.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.bulk-upload-text {
+  position: absolute;
+  top: 151px;
+  left: 1062px;
+  width: 88px;
+  height: 20px;
+  text-align: right;
+  font: 16px/20px Google Sans;
+  letter-spacing: 0px;
+  color: #276EF1;
+  opacity: 1;
+}
+
+.save-text {
+  position: absolute;
+  top: 151px;
+  left: 1230px;
+  width: 36px;
+  height: 20px;
+  text-align: left;
+  font: 16px/20px Google Sans;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+}
+
+.image {
+  position: absolute;
+  top: 143px;
+  left: 1306px;
+  width: 36px;
+  height: 36px;
+  background: transparent url('img/Group 10162.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.solid-border {
+  position: absolute;
+  top: 200px;
+  left: 280px;
+  width: 1086px;
+  height: 0px;
+  border: 1px solid #005BA6;
+  opacity: 1;
+}
+
+.logo {
+  position: absolute;
+  top: 224px;
+  left: 435px;
+  width: 364px;
+  height: 119px;
+  background: transparent url('img/Oracle-Logo-For-Website.png') 0% 0% no-repeat padding-box;
+  border: 1px solid #DADCE0;
+  border-radius: 4px;
+  opacity: 1;
+}
+
+.org-id-field {
+  position: absolute;
+  top: 367px;
+  left: 435px;
+  width: 41px;
+  height: 18px;
+  text-align: left;
+  font: 14px/18px Google Sans;
+  letter-spacing: 0px;
+  color: #5F6368;
+  opacity: 1;
+}
+
+.field-box {
+  position: absolute;
+  top: 393px;
+  left: 435px;
+  width: 364px;
+  height: 44px;
+  background: #FFFFFF;
+  border: 1px solid #DADCE0;
+  border-radius: 4px;
+  opacity: 1;
+}
+
+.city-name-field {
+  position: absolute;
+  top: 367px;
+  left: 823px;
+  width: 69px;
+  height: 18px;
+  text-align: left;
+  font: 14px/18px Google Sans;
+  letter-spacing: 0px;
+  color: #5F6368;
+  opacity: 1;
+}
+
+.org-name-field {
+  position: absolute;
+  top: 453px;
+  left: 435px;
+  width: 67px;
+  height: 18px;
+  text-align: left;
+  font: 14px/18px Google Sans;
+  letter-spacing: 0px;
+  color: #5F6368;
+  opacity: 1;
+}
+
+.similar-month-field {
+  position: absolute;
+  top: 625px;
+  left: 435px;
+  width: 90px;
+  height: 18px;
+  text-align: left;
+  font: 14px/18px Google Sans;
+  letter-spacing: 0px;
+  color: #5F6368;
+  opacity: 1;
+}
+
+.go-live-month-field {
+  position: absolute;
+  top: 625px;
+  left: 823px;
+  width: 95px;
+  height: 18px;
+  text-align: left;
+  font: 14px/18px Google Sans;
+  letter-spacing: 0px;
+  color: #5F6368;
+  opacity: 1;
+}
+
+.integration-month-field {
+  position: absolute;
+  top: 711px;
+  left: 435px;
+  width: 124px;
+  height: 18px;
+  text-align: left;
+  font: 14px/18px Google Sans;
+  letter-spacing: 0px;
+  color: #5F6368;
+  opacity: 1;
+}
+
+.ai-cycle-field {
+  position: absolute;
+  top: 797px;
+  left: 435px;
+  width: 53px;
+  height: 18px;
+  text-align: left;
+  font: 14px/18px Google Sans;
+  letter-spacing: 0px;
+  color: #5F6368;
+  opacity: 1;
+}
+
+.integration-date-field {
+  position: absolute;
+  top: 797px;
+  left: 823px;
+  width: 105px;
+  height: 18px;
+  text-align: left;
+  font: 14px/18px Google Sans;
+  letter-spacing: 0px;
+  color: #5F6368;
+  opacity: 1;
+}
+
+.erp-date-field {
+  position: absolute;
+  top: 883px;
+  left: 435px;
+  width: 120px;
+  height: 18px;
+  text-align: left;
+  font: 14px/18px Google Sans;
+  letter-spacing: 0px;
+  color: #5F6368;
+  opacity: 1;
+}
+
+.active-ai-time-field {
+  position: absolute;
+  top: 969px;
+  left: 435px;
+  width: 93px;
+  height: 18px;
+  text-align: left;
+  font: 14px/18px Google Sans;
+  letter-spacing: 0px;
+  color: #5F6368;
+  opacity: 1;
+}
+
+.active-ai-qc-time-field {
+  position: absolute;
+  top: 969px;
+  left: 823px;
+  width: 118px;
+  height: 18px;
+  text-align: left;
+  font: 14px/18px Google Sans;
+  letter-spacing: 0px;
+  color: #5F6368;
+  opacity: 1;
+}
+
+.lock-setup-text {
+  position: absolute;
+  top: 1187px;
+  left: 280px;
+  width: 103px;
+  height: 25px;
+  text-align: left;
+  font: 20px/25px Google Sans;
+  letter-spacing: 0px;
+  color: #3C4043;
+  opacity: 1;
+}
+
+.lock-setup-info {
+  position: absolute;
+  top: 1217px;
+  left: 280px;
+  width: 403px;
+  height: 16px;
+  text-align: left;
+  font: 12px/18px Google Sans;
+  letter-spacing: 0px;
+  color: #5F6368;
+  opacity: 1;
+}
+
+.integration-info-text {
+  position: absolute;
+  top: 1265px;
+  left: 280px;
+  width: 144px;
+  height: 25px;
+  text-align: left;
+  font: 20px/25
+
+
