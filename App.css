@@ -1,0 +1,31 @@
+.container {
+  width: 1366px;
+  height: 1702px;
+  background-color: white;
+  border: 1px solid black;
+}
+
+.header {
+  width: 1366px;
+  height: 64px;
+  background-color: white;
+  border: 1px solid black;
+}
+
+.main-container {
+  display: flex;
+}
+
+.sidebar {
+  width: 72px;
+  height: 1638px;
+  background-color: white;
+  border: 1px solid black;
+}
+
+.content {
+  width: 1294px;
+  height: 1638px;
+  background-color: white;
+  border: 1px solid black;
+}
