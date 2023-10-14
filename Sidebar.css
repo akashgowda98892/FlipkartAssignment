@@ -1,0 +1,73 @@
+.sidebar {
+  position: absolute;
+  width: 72px;
+  height: 1638px;
+  background-color: #FFFFFF;
+  border: 1px solid black;
+  top: 64px; /* Height of the header */
+  left: 0; /* Adjust if necessary */
+}
+
+.logo-dash {
+  position: absolute;
+  top: 81px;
+  left: 24px;
+  width: 24px;
+  height: 24px;
+  background: url('img/dashboard_black_24dp.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.logo-monthly {
+  position: absolute;
+  top: 137px;
+  left: 24px;
+  width: 24px;
+  height: 24px;
+  background: url('img/work_history_black_24dp.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.logo-super {
+  position: absolute;
+  top: 199px;
+  left: 0px;
+  width: 72px;
+  height: 70px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.logo-master {
+  position: absolute;
+  top: 303px;
+  left: 16px;
+  width: 40px;
+  height: 28px;
+  text-align: center;
+  font: 11px/14px Google Sans;
+  letter-spacing: 0px;
+  color: #5F6368;
+  opacity: 1;
+}
+
+.logo-more {
+  position: absolute;
+  top: 347px;
+  left: 24px;
+  width: 24px;
+  height: 24px;
+  background: url('img/read_more_black_24dp.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+/* Styles for the logo names */
+.logo-names {
+  width: 56px;
+  height: 28px;
+  text-align: center;
+  font: 11px/14px Google Sans;
+  letter-spacing: 0px;
+  color: #3C4043;
+  opacity: 1;
+}
