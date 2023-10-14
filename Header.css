@@ -1,0 +1,83 @@
+.header {
+  position: relative;
+  width: 1366px;
+  height: 64px;
+  background-color: white;
+  border: 1px solid black;
+}
+
+.logo {
+  position: absolute;
+  top: 6px;
+  left: 25px;
+  width: 173px;
+  height: 52px;
+  background: url('img/Flipkart_logo-700x185.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.date-text {
+  position: absolute;
+  top: 11px;
+  left: 272px;
+  width: 252px;
+  height: 18px;
+  text-align: left;
+  font: 14px/18px Google Sans;
+  letter-spacing: 0px;
+  color: #5F6368;
+  opacity: 1;
+}
+
+.company-name {
+  position: absolute;
+  top: 32px;
+  left: 272px;
+  width: 157px;
+  height: 20px;
+  text-align: left;
+  font: 16px/20px Google Sans;
+  letter-spacing: 0px;
+  color: #3C4043;
+  opacity: 1;
+}
+
+.dropdown {
+  position: absolute;
+  top: 30px;
+  left: 437px;
+  width: 24px;
+  height: 24px;
+  background: url('img/arrow_drop_down_black_24dp.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.support-logo {
+  position: absolute;
+  top: 16px;
+  left: 1154px;
+  width: 24px;
+  height: 24px;
+  background: url('img/help_outline-24px (3).png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.notification-logo {
+  position: absolute;
+  top: 16px;
+  left: 1237px;
+  width: 24px;
+  height: 24px;
+  background: url('img/Group 8570.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.green-circle {
+  position: absolute;
+  top: 23px;
+  left: 1320px;
+  width: 11px;
+  height: 18px;
+  background: url('img/R.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
